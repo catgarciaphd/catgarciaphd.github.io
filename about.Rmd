@@ -1,0 +1,19 @@
+---
+title: "Catherine Garcia, PhD"
+image: "catherinegarcia.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/catherineperezphd"
+  - label: Twitter
+    url: "https://twitter.com/LaGerontologa"
+  - label: GitHub
+    url: "https://github.com/catgarciaphd"
+  - label: Email
+    url: "catherinegarcia@unl.edu"
+output:
+  postcards::jolla
+---
+ 
+I am a Gerontologist that studies Latina/o/x aging and health. The primary objective of my research is to inform efforts aimed at reducing race/ethnic health inequalities that characterize our growing older adult population. Specifically, I am interested in identifying how residential environments and sociocultural processes “get under the skin” to influence health by elucidating the complex association between neighborhood conditions, sociocultural factors, psychosocial factors, and physiological precursors to disease and functional health decline among Latinos.
+
+I am currently an assistant professor of sociology and a core faculty member at the Minority Health Disparities Initiative at the University of Nebraska - Lincoln.
