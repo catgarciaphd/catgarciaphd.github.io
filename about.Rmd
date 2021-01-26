@@ -14,4 +14,4 @@ output:
   postcards::jolla
 ---
  
-I am currently an assistant professor of sociology and a core faculty member at the Minority Health Disparities Initiative at the University of Nebraska - Lincoln.
+I am currently an assistant professor of sociology and a core faculty member of the Minority Health Disparities Initiative at the University of Nebraska - Lincoln.
