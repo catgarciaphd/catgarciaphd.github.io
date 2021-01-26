@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2021-01-25-welcome/",
+    "title": "Welcome",
+    "description": "I am currently learning how to use the Distill package in R to build my own website.",
+    "author": [
+      {
+        "name": "Catherine Garcia, PhD",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-25",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-25T19:30:54-06:00",
+    "input_file": "welcome.utf8.md"
+  }
+]

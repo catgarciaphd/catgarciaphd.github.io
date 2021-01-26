@@ -1,5 +1,6 @@
 ---
 title: "Research"
+image: "research.jpg"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=5PksPKwAAAAJ&hl=en&authuser=2"
