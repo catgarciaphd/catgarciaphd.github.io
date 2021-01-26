@@ -1,6 +1,6 @@
 ---
 title: "Catherine Garcia, PhD"
-image: "catherinegarcia.jpg"
+image: "catherinegarcia.JPG"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/catherineperezphd"
