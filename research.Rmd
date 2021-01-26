@@ -8,13 +8,6 @@ output:
   postcards::jolla
 ---
  
-### Research Interests
-- Aging and the Life Course
-- Social Determinants of Health
-- Health Disparities
-- Biodemography
-- Quantitative Methods
- 
-I am a Gerontologist that studies Latina/o/x aging and health. The primary objective of my research is to inform efforts aimed at reducing race/ethnic health inequalities that characterize our growing older adult population. Specifically, I am interested in identifying how residential environments and sociocultural processes “get under the skin” to influence health by elucidating the complex association between neighborhood conditions, sociocultural factors, psychosocial factors, and physiological precursors to disease and functional health decline among Latina/o/xs.
+I am a Gerontologist that studies Latina/o/x aging and health. The primary objective of my research is to inform efforts aimed at reducing race/ethnic health inequalities that characterize our growing older adult population. Specifically, I am interested in identifying how residential environments and sociocultural processes “get under the skin” to influence health by elucidating the complex association between neighborhood conditions, sociocultural factors, psychosocial factors, and physiological precursors to disease and functional health decline among Latinos.
 
 

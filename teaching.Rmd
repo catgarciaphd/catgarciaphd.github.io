@@ -8,7 +8,7 @@ output:
   postcards::jolla
 ---
  
-My teaching background has largely centered on teaching quantitative methods in the social sciences and my overarching goal is to give students the tools to understand the world they live in by teaching them sociological and gerontological approaches to formulating research questions and research designs that can answer those questions. I use Bloom's taxonomy of learning as a framework to design all of my courses because I want students to engage with course material in a dynamic classroom, whether in-person or online.  
+My teaching background has largely centered on teaching quantitative methods in the social sciences and my overarching goal is to give students the tools to understand the world they live in by teaching them sociological and gerontological approaches to formulating research questions and research designs that can answer those questions. 
   
 
 
