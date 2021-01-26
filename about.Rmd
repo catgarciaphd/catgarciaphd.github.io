@@ -3,7 +3,7 @@ title: "Catherine Garcia, PhD"
 image: "catherinegarcia.JPG"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/in/catherineperezphd/"
+    url: "https://www.linkedin.com/in/catherineperezphd/"
   - label: Twitter
     url: "https://twitter.com/LaGerontologa"
   - label: GitHub
