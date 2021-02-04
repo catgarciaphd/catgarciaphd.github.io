@@ -5,7 +5,7 @@ links:
   - label: Teaching Materials
     url: "https://sites.google.com/view/teachingrepo/home"
 output:
-  postcards::jolla
+  distill::distill_article
 ---
  
 My teaching background has largely centered on teaching quantitative methods in the social sciences and my overarching goal is to give students the tools to understand the world they live in by teaching them sociological and gerontological approaches to formulating research questions and research designs that can answer those questions. 

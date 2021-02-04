@@ -9,9 +9,18 @@ navbar:
     - text: "About"
       href: index.html
     - text: "Research"
-      href: research.html
+      menu:
+        - text: "My Research"
+          href: research.html
+        - text: "Google Scholar"
+          href: https://scholar.google.com/citations?user=5PksPKwAAAAJ&hl=en&authuser=2
     - text: "Teaching"
       href: teaching.html
+      menu:
+        - text: "Teaching Background"
+          href: teaching.html
+        - text: "Syllabi for Courses Taught"
+          href: https://sites.google.com/view/teachingrepo/home
     - text: "Blog"      
       href: blog.html   
 output:
