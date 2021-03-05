@@ -16,5 +16,9 @@ output:
 site: distill::distill_website
 ---
  
-Welcome! I am an assistant professor of sociology and a core faculty member of the Minority Health Disparities Initiative at the University of Nebraska - Lincoln. As a gerontologist, I apply a combined intersectionality and life-course perspective to contextualize what mechanisms account for the heterogeneity in health and mortality outcomes among older Latina/o/x subgroups. My research is inherently interdisciplinary and is grounded in sociology, biology, psychology, and policy. 
+Welcome! I am an assistant professor of sociology and a core faculty member of the Minority Health Disparities Initiative at the University of Nebraska - Lincoln. I received my PhD in Gerontology from the University of Southern California in 2020. 
+
+I study Latina/o/x aging and health in the United States and Puerto Rico. I am broadly interested in how residential environments, sociocultural factors, and other social factors shape the disease process among older adults.
+
+I previously earned my M.S. in Sociology from Florida State University and B.A. in Sociology with a minor in Human Complex Systems from the University of California - Los Angeles. 
 
